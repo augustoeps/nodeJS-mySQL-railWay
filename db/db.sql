@@ -1,0 +1,4 @@
+CREATE TABLE users(
+    id int PRIMARY JEY AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL
+)
